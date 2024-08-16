@@ -82,7 +82,7 @@
     <entry lang="tr" key="IDT_FORMAT_OPTIONS">Seçenekler</entry>
     <entry lang="tr" key="IDT_HASH_ALGO">Karma algoritması</entry>
     <entry lang="tr" key="IDT_HEADER_KEY">Üst bilgi anahtarı: </entry>
-    <entry lang="tr" key="IDT_LEFT">Sol </entry>
+    <entry lang="tr" key="IDT_LEFT">Kalan </entry>
     <entry lang="tr" key="IDT_MASTER_KEY">Ana anahtar:</entry>
     <entry lang="tr" key="IDT_MULTI_BOOT">Bu bilgisayarda kurulu iki ya da daha fazla işletim sistemi varsa bu seçeneği seçin.\n\nÖrneğin:\n- Windows XP ve Windows XP\n- Windows XP ve Windows Vista\n- Windows ve Mac OS X\n- Windows ve Linux\n- Windows, Linux ve macOS</entry>
     <entry lang="tr" key="IDT_NON_SYS_DEVICE">Herhangi bir iç ya da dış sürücüdeki (flash sürücü gibi) sistem dışındaki bir bölümü şifreler. İsteğe bağlı olarak bir gizli birim oluşturur.</entry>
